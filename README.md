@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/imber-web?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imberZsk)](https://github.com/anuraghazra/github-readme-stats)
