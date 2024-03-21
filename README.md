@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-Gsap-informational?style=flat&color=informational&logo=gsap.js)
 
 ## 📊 Statistics
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=imberZsk&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
