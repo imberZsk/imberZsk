@@ -19,6 +19,8 @@
 | [Visual Muse](https://github.com/imberZsk/visual-muse) | 多平台内容创作与发布桌面工作台 | Electron · React · TypeScript |
 | [Visual Learn](https://github.com/imberZsk/visual-learn) | 本地 Markdown 学习资料与进度管理工具 | Electron · React · Markdown |
 
+统一产品文档与下载入口：[Imber Visual Docs](https://imber-visual-docs.netlify.app/products)。
+
 ## 当前方向
 
 - AI 应用工程：围绕真实场景完成模型接入、工具调用、上下文管理与交互体验。
